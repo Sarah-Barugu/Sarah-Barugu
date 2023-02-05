@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sarah-Barugu
-- 🌱 I’m a BackEnd Web Developer who is always interested in learning new concepts
-- 💞️ I’m looking to collaborate on RealLife Projects
+- 🌱 I’m a Backend Developer with a knowledge of JavaScript, Nodejs, Express, MongoDB, I am always interested in learning new concepts
 - 👀 my love for tech grows daily,I also love anything fitness and music related
 - $$ you can connect to me via linkedIn @ www.linkedin.com/in/sarah-barugu
 -- also on twitter @ https://twitter.com/SarahBarugu
